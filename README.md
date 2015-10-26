@@ -121,9 +121,10 @@ This gives us:
 ```ruby
 def view_columns
   @view_columns ||= {
-    'first_name' => 'User.first_name',
-    'last_name' => 'User.last_name',
-    'bio' => 'User.bio'
+    id: { source: "City.id", cond: :eq },
+    name: { source: "City.name", cond: :like },
+    created_at: { source: "City.created_at", cond: :gteq },
+    country_name: { source: "City.country_id", cond: :eq }
   }
 end
 ```
