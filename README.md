@@ -535,7 +535,7 @@ The complete project code for this tutorial series is available on [github](http
 
 __version 0.4.0:__
 
-Another sample project [code](https://github.com/trkrameshkumar/simple_app). It real wordl example.
+Another sample project [code](https://github.com/ajahongir/ajax-datatables-rails-v-0-4-0-how-to). Its real world example.
 
 ## Contributing
 
