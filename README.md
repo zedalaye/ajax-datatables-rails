@@ -525,7 +525,7 @@ database.
 
 Tutorial for Integrating `ajax-datatable-rails`, on  Rails 4.
 
-__IMPORTANT:__ this tutorial is deprecated on version 0.4.0, and applies to version 0.3.0 and below.
+__version 0.3.0:__
 
 [Part-1  The-Installation](https://github.com/antillas21/ajax-datatables-rails/wiki/Part-1----The-Installation)
 
@@ -533,6 +533,9 @@ __IMPORTANT:__ this tutorial is deprecated on version 0.4.0, and applies to vers
 
 The complete project code for this tutorial series is available on [github](https://github.com/trkrameshkumar/simple_app).
 
+__version 0.4.0:__
+
+Another sample project [code](https://github.com/trkrameshkumar/simple_app). It real wordl example.
 
 ## Contributing
 
